@@ -1,0 +1,122 @@
+[364:5480:0108/075804.208:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[364:5480:0108/075804.209:VERBOSE1:crash_service.cc(143)] window handle is 000302AE
+[364:5480:0108/075804.209:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[364:5480:0108/075804.209:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[364:5480:0108/075804.210:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[364:1904:0108/075804.210:VERBOSE1:crash_service.cc(322)] client start. pid = 5732
+[364:1904:0108/075808.154:VERBOSE1:crash_service.cc(322)] client start. pid = 2724
+[352:2284:0108/075808.165:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[352:2284:0108/075808.167:VERBOSE1:crash_service.cc(143)] window handle is 000302CC
+[352:2284:0108/075808.167:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[352:2284:0108/075808.167:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[352:2284:0108/075808.167:ERROR:crash_service.cc(300)] could not start dumper
+[6104:6108:0108/090315.512:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[6104:6108:0108/090315.528:VERBOSE1:crash_service.cc(143)] window handle is 0002017C
+[6104:6108:0108/090315.528:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[6104:6108:0108/090315.528:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6104:6108:0108/090315.528:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[6104:6128:0108/090315.528:VERBOSE1:crash_service.cc(322)] client start. pid = 5964
+[6104:6128:0108/090320.387:VERBOSE1:crash_service.cc(322)] client start. pid = 1104
+[5808:5812:0108/090320.402:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[5808:5812:0108/090320.402:VERBOSE1:crash_service.cc(143)] window handle is 00010224
+[5808:5812:0108/090320.402:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[5808:5812:0108/090320.402:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5808:5812:0108/090320.402:ERROR:crash_service.cc(300)] could not start dumper
+[684:6972:0109/064241.415:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[684:6972:0109/064241.447:VERBOSE1:crash_service.cc(143)] window handle is 0003006E
+[684:6972:0109/064241.447:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[684:6972:0109/064241.447:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[684:6972:0109/064241.447:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[684:4656:0109/064241.447:VERBOSE1:crash_service.cc(322)] client start. pid = 5924
+[684:4656:0109/064248.095:VERBOSE1:crash_service.cc(322)] client start. pid = 4276
+[5628:6436:0109/064248.110:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[5628:6436:0109/064248.110:VERBOSE1:crash_service.cc(143)] window handle is 00030068
+[5628:6436:0109/064248.110:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[5628:6436:0109/064248.110:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5628:6436:0109/064248.110:ERROR:crash_service.cc(300)] could not start dumper
+[8880:10456:0110/064408.493:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[8880:10456:0110/064408.508:VERBOSE1:crash_service.cc(143)] window handle is 0004007C
+[8880:10456:0110/064408.508:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[8880:10456:0110/064408.508:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[8880:10456:0110/064408.508:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[8880:4832:0110/064408.508:VERBOSE1:crash_service.cc(322)] client start. pid = 7304
+[8880:4832:0110/064419.833:VERBOSE1:crash_service.cc(322)] client start. pid = 10876
+[7204:2588:0110/064419.833:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[7204:2588:0110/064419.833:VERBOSE1:crash_service.cc(143)] window handle is 0002023C
+[7204:2588:0110/064419.833:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[7204:2588:0110/064419.833:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[7204:2588:0110/064419.833:ERROR:crash_service.cc(300)] could not start dumper
+[8880:4832:0110/064437.150:VERBOSE1:crash_service.cc(322)] client start. pid = 10528
+[4368:12280:0110/064437.161:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[4368:12280:0110/064437.163:VERBOSE1:crash_service.cc(143)] window handle is 000202A0
+[4368:12280:0110/064437.163:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[4368:12280:0110/064437.163:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4368:12280:0110/064437.163:ERROR:crash_service.cc(300)] could not start dumper
+[8880:11304:0110/064437.837:VERBOSE1:crash_service.cc(330)] client end. pid = 10876
+[8880:4832:0110/064705.486:VERBOSE1:crash_service.cc(322)] client start. pid = 12368
+[17384:708:0110/064705.497:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[17384:708:0110/064705.499:VERBOSE1:crash_service.cc(143)] window handle is 00010554
+[17384:708:0110/064705.499:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[17384:708:0110/064705.499:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[17384:708:0110/064705.499:ERROR:crash_service.cc(300)] could not start dumper
+[8880:5360:0110/064705.936:VERBOSE1:crash_service.cc(330)] client end. pid = 12368
+[1296:7256:0111/063855.244:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[1296:7256:0111/063855.244:VERBOSE1:crash_service.cc(143)] window handle is 00020032
+[1296:7256:0111/063855.244:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[1296:7256:0111/063855.244:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[1296:7256:0111/063855.244:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[1296:6148:0111/063855.244:VERBOSE1:crash_service.cc(322)] client start. pid = 13748
+[1296:6148:0111/063905.196:VERBOSE1:crash_service.cc(322)] client start. pid = 10516
+[7832:6128:0111/063905.212:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload --application-name=skype-preview "--crashes-directory=C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes" --v=1]
+[7832:6128:0111/063905.212:VERBOSE1:crash_service.cc(143)] window handle is 00010248
+[7832:6128:0111/063905.212:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\skype-preview Crash Service
+dumps at C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes
+[7832:6128:0111/063905.212:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\Agent\AppData\Local\Temp\skype-preview Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/ff1d9b79f7e24f94a25c219342810116/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[7832:6128:0111/063905.212:ERROR:crash_service.cc(300)] could not start dumper

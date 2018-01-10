@@ -1,0 +1,78 @@
+<? if ($wa[custom_29]=="horizontal") { ?>
+<link href="https://fonts.googleapis.com/css?family=Lato:900" rel="stylesheet">
+  <div class="col-md-12 search_box fpad img-rounded comIdxSearch">
+	  <h1 class="bold-homepage-title"><?php echo $wa[custom_130]?></h1>
+      <? if ($wa[custom_131]!="") { ?>
+          <h2 class="fpad nomargin sm-text-center"><?=$wa[custom_131]?></h2>
+      <? } ?>
+      <div class="clearfix"></div>
+      <div class="form-group nomargin hidden-sm hidden-xs col-md-4">
+          <label class="nomargin">
+              %%%home_search_dropdown_1%%%
+          </label>
+      </div>
+      <div class="form-group nomargin hidden-xs hidden-sm col-md-4">
+          <label class="nomargin">
+              %%%home_search_dropdown_3%%%
+          </label> 
+      </div> 
+      <div class="clearfix"></div>
+      <form class="tpad form-inline website-search" name="frm1" action="/<?=$w[default_search_url]?>">
+        <div class="form-group col-sm-12 col-md-4 bmargin">
+          <div class="input-group input-group-lg col-sm-12 large-autosuggest">
+            <div class="input-group-addon">
+            <!--<i class="fa fa-fw fa-search"></i>-->
+            </div>
+            <input type="text" class="member_search form-control input-lg large-autosuggest-input" name="q" value="<?=$_GET[q]?>" placeholder="<?=$label[keyword_search_default]?>">
+          </div>
+        </div>
+        <div class="form-group col-sm-12 col-md-4 bmargin">
+          <div class="input-group input-group-lg col-sm-12">
+            <div class="input-group-addon"><!--<i class="fa fa-fw fa-location-arrow"></i>--></div>
+            <input type="text" class="googleSuggest googleLocation form-control input-lg" name="location_value" id="location_google_maps_homepage" value="<? if ($_GET[location_value]!=") { echo $_GET[location_value]; } else if ($w[geocode_visitor_default]==1 && $w[geocode]==1 && $_SESSION[vdisplay]!=") { echo $_SESSION[vdisplay]; } ?>" placeholder="<?=$label[location_search_default]?>" autocomplete="off">
+          </div>
+        </div>
+        <div class="form-group col-sm-12 col-md-4 bmargin">
+          <input type="submit" value="<?=$Label[home_search_submit]?>" class="btn-block btn btn-lg btn_home_search" />
+        </div>
+        <div class="clearfix"></div>
+      </form>
+      <div class="clearfix"></div>
+  </div>
+  <? } else { ?>
+  <div class="col-xs-12 col-sm-12 col-md-6 search_box fpad img-rounded center-block">
+      <? if ($wa[custom_131]!="") { ?>
+          <h2 class="fpad nomargin sm-text-center"><?=$wa[custom_131]?></h2>
+      <? } ?>
+      <div class="clearfix"></div>
+      <form class="fpad form-horizontal website-search" name="frm1" action="/<?=$w[default_search_url]?>">
+          <div class="form-group nomargin hidden-sm hidden-xs col-lg-5">
+              <label>%%%home_search_dropdown_1%%%</label>
+          </div>
+          <div class="input-group input-group-lg bmargin col-lg-7 large-autosuggest">
+              <span class="input-group-addon">
+              <i class="fa fa-fw fa-search"></i>
+              </span>
+           <input type="text" class="member_search form-control input-lg large-autosuggest-input" name="q" id="keywordSuggest" value="<?=$_GET[q]?>" placeholder="<?=$label[keyword_search_default]?>">
+          </div>
+		  <div class="clearfix"></div>
+          <div class="form-group nomargin hidden-sm hidden-xs col-lg-5">
+              <label>
+                  %%%home_search_dropdown_3%%%
+              </label> 
+          </div>
+          <div class="input-group input-group-lg bmargin col-lg-7">
+              <span class="input-group-addon">
+              <i class="fa fa-fw fa-location-arrow"></i>
+              </span>
+              <input type="text" class="googleSuggest googleLocation form-control input-lg" name="location_value" id="location_google_maps_homepage" value="<? if ($_GET[location_value]!=") { echo $_GET[location_value]; } else if ($w[geocode_visitor_default]==1 && $w[geocode]==1 && $_SESSION[vdisplay]!=") { echo $_SESSION[vdisplay]; } ?>" placeholder="<?=$label[location_search_default]?>" autocomplete="off">
+          </div>
+          <div class="col-lg-offset-5 col-lg-7 nopad">
+              <input type="submit" value="<?=$Label[home_search_submit]?>" class="btn btn-lg btn-block btn_home_search" />
+          </div>
+          <div class="clearfix"></div>
+      </form>
+      <div class="clearfix"></div>
+  </div>
+<? } ?> 
+
